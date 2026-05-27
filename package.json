@@ -14,7 +14,7 @@
     "@hapi/joi": "^17.0.2",
     "country-emoji": "^1.5.0",
     "esm": "^3.2.25",
-    "gatsby": "^2.18.12",
+    "gatsby": "^2.32.13",
     "gatsby-image": "^2.2.34",
     "gatsby-plugin-manifest": "^2.2.31",
     "gatsby-plugin-offline": "^3.0.27",
@@ -40,7 +40,7 @@
   },
   "devDependencies": {
     "babel-eslint": "^9.0.0",
-    "eslint": "^5.16.0",
+    "eslint": "^10.4.0",
     "eslint-config-airbnb": "^17.1.1",
     "eslint-config-prettier": "^4.3.0",
     "eslint-config-wesbos": "0.0.19",
